@@ -1,5 +1,5 @@
 {
-  "name": "cesium",
+  "name": "cesium-strava",
   "version": "1.0.0",
   "description": "A cesium visualizer for strava",
   "main": "server.js",
